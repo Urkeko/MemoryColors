@@ -1,0 +1,165 @@
+#logosol {
+    width: 100px; 
+    height: auto; 
+    position:absolute
+    
+}
+
+.container{
+    margin: 80px auto;
+    width: 800px;
+    height: 650px;
+    max-width: 500px;
+    outline: 4px solid;
+    background: linear-gradient(#ffffff78, #f9f9f9e6);
+    border-radius: 15px;
+
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows:repeat(4,1fr) ;
+}
+
+h1{
+    text-align: center;
+    color: white;
+    font-size: 3em;
+    font-family: 'Nerko One', sans-serif;
+}
+body{
+    background-image:url(img/patrones.jpg) ;
+    
+}
+
+.iluminar{
+    filter: brightness(200%);
+    transition: filter 0.5s ease;
+}
+
+
+#color1 {
+    background: #1D6D1F; 
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+
+#color2 {
+    background: #8B4513; 
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+
+#color3 {
+    background: #4B0082; 
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+
+#color4 {
+    background: #FF4500; 
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+
+#color5 {
+    background: #FF69B4; 
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+
+#color6 {
+    background: #00CED1; 
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+
+#color7 {
+    background: #B22222; 
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+
+#color8 {
+    background: #8A2BE2; 
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+
+#color9 {
+    background: #FFD700; 
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+
+#color10 {
+    background: #2E8B57; 
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+
+#color11 {
+    background: #FF6347; 
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+
+#color12 {
+    background: #4682B4; 
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+
+#color13 {
+    background: #D2691E; 
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+
+#color14 {
+    background: #DA70D6; 
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+
+#color15 {
+    background: #A52A2A; 
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+
+#color16 {
+    background: #FF8C00; 
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
